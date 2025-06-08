@@ -1,0 +1,69 @@
+question: Question 1: *If you have to resolve a big problem, how you will do it?*
+1.I'm not that type of person, let the big guys handle it
+2.Address it in small portions
+3.I'm capable of resolving it, divide and conquer!
+4.Nothing can stop me, all the way up
+answers: 1. Let big guys handle:1.0; 2. In Small Portions:1.5; 3. Divide And Conquer:2.5; 4. All the way up!:3.0
+
+question: Question 2: *How would you prefer to go to your favorite resort?*
+1.I will stay home!
+2.By foot or hitchhiking
+3.Big cruise liner
+4.Plane
+answers: 1. Stay Home:0.5; 2. Foot:1.0; 3. Big Cruise:2.0; 4. Plane:3.0
+
+question: Question 3: *Do you like fast driving?*
+1.Nope, too dangerous
+2.Well, I'm obeying to rules
+3.If no one sees me, I'm Dominic Toretto
+4.Hold my beer...
+answers: 1. Too dangerous:1.0; 2. Obeying to Rules:1.5; 3. Dominic Toretto:2.5; 4. Hold my beer:3.0
+
+question: Question 4: *You see in front of you the last exclusive Michael Jordan's Nike Air. Your actions?*
+1.Take my money!
+2.Well, depends on price
+3.I will consider buying later
+4.Nah, waste of money
+answers: 1. Take my money:1.0; 2. depends on price:1.5; 3. buying later:2.5; 4. waste of money:3.0
+
+question: Question 5: *Friends called you to join with them for barbeque. Your actions*
+1.I'm a vegetarian, thank you 
+2.Well, if they're paying...
+3.What might be better than a barbeque outside
+4.Hell yeah, gimme the steak!
+answers: 1. Vegetarian:1.0; 2. If they're paying:1.5; 3. What might be better:2.5; 4. Hell yeah:3.0
+
+question: Question 6: *You're skiing with your friends and you have a choice to go green, yellow and red path.*
+1.Green - I know how many bones can be broken in a human body
+2.May go for yellow - craving for some new feelings
+3.Of course I will try red, but only if the guys will go
+4.I'm Tom Cruise, stay aside from my red path
+answers: 1. Green:1.0; 2. Yellow:1.5; 3. Trying Red:2.5; 4. Tom Cruise:3.0
+
+question: Question 7: *Which sports do you like most?*
+1.Nordic Walking! I'm an old coot deep down
+2.Fishing, but not the winter one
+3.I'm Michael Phelp's cousin
+4.Parachute jumping! I believe I can fly
+answers: 1. Nordic Walking:1.0; 2. Fishing:1.5; 3. Michael Phelps:2.5; 4. Parachute:3.0
+
+question: Question 8: *Have you watched Fast&Furious?*
+1.What is that?
+2.Lost after the 3rd part...
+3.I wish I could forget to rewatch it again
+4.There's nothing stronger than family
+answers: 1. What is that:1.0; 2. Lost after:1.5; 3. I wish to rewatch:2.5; 4. Family:3.0
+
+question: Question 9: *You've a chance to save a Tasmanian Wolf. Your actions?*
+1.For sure, I'll save him
+2.Why he is so week and extinct?
+3.What is that?
+4.I thought there is only one wolf species - direwolf
+answers: 1. For sure:1.0; 2. Why he is so week:1.5; 3. What is that:2.5; 4. Direwolf:3.0
+
+question: Question 10: *You're very hungry. What you will order for eating?*
+1.My favorite salad.
+2.McDonald's.
+3.Idk, depends on how hungry I am.
+4.A juicy steak
+answers: 1. Salad:1.0; 2. McDonald's:1.5; 3. Depends on hungriness:2.5; 4. Steak:3.0
