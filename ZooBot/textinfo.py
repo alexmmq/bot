@@ -30,7 +30,7 @@ send_message_text = (
     '\nTo proceed further, we need your consent to forward your quiz results to specialists at Moscow Zoo.'
     '\nPlease enter the word <b>"Confirm"</b> to continue.'
     '\nThen, you may reach out to specialists to confirm and finalize guardianship using these contacts:'
-    '\ne-mail: opeka@moscow.zoo\nphone: +7(495) 111-11-11')
+    '\ne-mail: opeka@moscow.zoo\nphone: +7(495) xxx-xx-xx')
 
 share_result_text = (
     'Now that you have received your quiz results, you can share them with friends by simply forwarding this message.')
